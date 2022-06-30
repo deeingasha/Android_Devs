@@ -1,2 +1,2 @@
 # Android_Devs
-Contains practics apps made will learning with developer.android.com
+Contains practice apps made will learning with developer.android.com
